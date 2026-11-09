@@ -1,0 +1,3 @@
+7558004d1e14a4fe3cd111c7ad324e7845c9c40d9fc614f9f4a8c14829c147f1  Lemon-Studio-2026.11-Linux-x86_64.tar.gz
+11afb0552445d2c4a3b31d7f3f63c14763f4ea64c5634d1c680012633795676e  Lemon-Studio-2026.11-Windows-x64-Setup.exe
+0bbdfd6a1043f77bbe2c723d997d4ef46c54e5a4f928afd048df28449680fd37  Lemon-Studio-2026.11-macOS-AppleSilicon-UNSIGNED.pkg
