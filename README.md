@@ -4,7 +4,7 @@ Ready-to-install downloads of **Lemon Studio 2026.11 (Kynda Edition)**, a free m
 Sindiso Moyo (Kynda). All the instruments and effects are built in.
 
 This repository holds the installers only; the source code is at
-[Sindie94/Lemon_Studio_Fluxwave_Version](https://github.com/Sindie94/Lemon_Studio_Fluxwave_Version).
+[Sindie94/Lemon_Studio_Kynda_Edition](https://github.com/Sindie94/Lemon_Studio_Kynda_Edition).
 
 ## Download
 
@@ -37,11 +37,19 @@ Your projects and settings are kept when you install a newer version.
   and Logic speed fades), fades, gain, normalize, reverse, pitch shift, spectral de-noise and any effect plugin
 - Remove silence, highlighting across tracks, auto fades, and Pro Tools / Cubase editing keys
 - Recording while playing (punch in at the playhead)
-- A help manual with pictures: [Lemon Studio Help.pdf](https://github.com/Sindie94/Lemon_Studio_Fluxwave_Version/raw/main/docs/Lemon%20Studio%20Help.pdf)
+- A help manual with pictures: [Lemon Studio Help.pdf](https://github.com/Sindie94/Lemon_Studio_Kynda_Edition/raw/main/docs/Lemon%20Studio%20Help.pdf)
+
+## Thank you
+
+This Kynda Edition would not exist without others sharing their work:
+
+- **ItsAlphaNeon and the Lemon Studio team**, who created [Lemon Studio](https://github.com/ItsAlphaNeon/Lemon-Studio)
+  and share it as free software. Everything here is built on their work.
+- **Michael Lane**, who shared the files of his customized edition of Lemon Studio, which this edition continues.
 
 ## License
 
 Free software under the GNU General Public License v3 or later. Lemon Studio is based on the open-source
 [Lemon Studio](https://github.com/ItsAlphaNeon/Lemon-Studio) by ItsAlphaNeon and contributors; this is a modified
 community edition, not an official release. The matching source code is in the
-[source repository](https://github.com/Sindie94/Lemon_Studio_Fluxwave_Version).
+[source repository](https://github.com/Sindie94/Lemon_Studio_Kynda_Edition).
